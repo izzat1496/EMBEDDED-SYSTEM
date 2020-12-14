@@ -11,8 +11,12 @@ Arduino UNO x1
 
 Breadboard x1
 
-Potentiometer x1
+Green LED x1
 
-Jumper wire x3
+Pushbutton x1
+
+Jumper wire x4
+
+Resistor 1kΩ x2
 
 Refer to this link for coding explaination with demonstration: (Currently editing the video. Please look for temporary video in the Project File folder)
