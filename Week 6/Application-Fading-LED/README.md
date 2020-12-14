@@ -15,4 +15,6 @@ Green LED x1
 
 Jumper wire x2
 
+Resistor 1kΩ x 1
+
 Refer to this link for coding explaination with demonstration: (Currently editing the video. Please look at the temporary video)
