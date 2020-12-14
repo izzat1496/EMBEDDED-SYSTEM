@@ -1,4 +1,4 @@
-# Running-Mode-Analog-Input
+# Application Fading LED
 In this project we want to control the timer port of Arduino.
 
 This program is to apply the timer port Arduino. We will use PWM to do fading LED.
