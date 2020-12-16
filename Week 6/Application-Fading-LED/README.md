@@ -3,7 +3,7 @@ In this project we want to control the timer port of Arduino.
 
 This program is to apply the timer port Arduino. We will use PWM to do fading LED.
 
-The LED will be connected to pin 6 of Arduino which have PWN control.
+The LED will be connected to pin 6 of Arduino which have PWM control.
 
 List of component:
 
