@@ -1,4 +1,8 @@
-
+/*
+ * In this project, we want to control the timer port of the Arduino.
+ * The brightness of the LED was controlled by varyung the value of the potentiometer.
+ * Author: Muhammad Izzat (1717987)
+ */
 
 int LED_PIN = 6;  // the PWM pin the LED is attached to
 int POTENTIOMETER_PIN = A0; // setting the analog pin of the potentiometer
