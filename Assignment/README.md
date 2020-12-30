@@ -6,7 +6,7 @@ The usage of battery here is not effecient because of motor using a lot of curre
 
 there is no sensor to detect wether the ball really push up and down or not, if there is a failure, no sensor to detect it.
 
-the use of USB connection here is a hassle and tidious.
+the use of USB connection here for controller here is a hassle and tidious.
 
 the ball need to be inserted manually each time the game finish
 
