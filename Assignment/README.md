@@ -10,7 +10,7 @@ the use oof USB connection here is a hassle and tidious.
 
 # Improvement can be made:
  
-instead on using servo, better to use 5V push and pull selonoid electromagnetic.
+instead on using servo, better to use 5V push and pull selonoid electromagnetic which cost around the same as the TowerPro sg90 micro servo.
 
 need a direct power supply instead of battery to maintain performance.
 
