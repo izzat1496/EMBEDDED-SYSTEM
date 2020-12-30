@@ -17,4 +17,4 @@ need a direct power supply instead of battery to maintain performance.
 
 the connection can be improved by using wireless connection like HC-05 bluetooth (RM12 x3) but it will also require additional microcontroller ( Arduino Pro Mini RM10 x 2)
 
-create a mechanism that can return automatically to the start point like additional push and pull solenoid to push the ball up to the starting point. Alternatively, can replace the whole thing with OLED digital display for the whole thing instead of using physical ball and servo motor.
+create a mechanism that can return automatically to the start point like additional push and pull solenoid to push the ball up to the starting point. Alternatively, can replace the whole thing with OLED digital display for the whole thing instead of using physical ball and servo motor. with digital OLED we can just press one reset button and it will back to the start again.
