@@ -4,8 +4,9 @@ the use of the servo here is not good since need a calibration everytime it is r
 
 The usage of battery here is not effecient because of motor using a lot of current, the playing time will be limited and short.
 
-the use oof USB connection here is a hassle and tidious.
+the use of USB connection here is a hassle and tidious.
 
+the ball need to be inserted manually each time the game finish
 
 
 # Improvement can be made:
@@ -15,3 +16,5 @@ instead on using servo, better to use 5V push and pull selonoid electromagnetic 
 need a direct power supply instead of battery to maintain performance.
 
 the connection can be improved by using wireless connection like HC-05 bluetooth (RM12 x3) but it will also require additional microcontroller ( Arduino Pro Mini RM10 x 2)
+
+create a mechanism that can return automatically to the start point like additional push and pull solenoid to push the ball up to the starting point. Alternatively, can replace the whole thing with OLED digital display for the whole thing instead of using physical ball and servo motor.
