@@ -1,3 +1,5 @@
+# Arduino Switch Direction Servo
+
 In this project, we will use pushbutton to control the movement of the servo.
 
 If pushbutton 1 was pressed, rotate to the left.
