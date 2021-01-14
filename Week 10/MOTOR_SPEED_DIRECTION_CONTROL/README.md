@@ -1,3 +1,5 @@
+# Arduino Motor Speed Direction Control
+
 This program is to control the speed and change the direction of motor
 
 When the then pushbutton was pressed, the motor will change direction.
