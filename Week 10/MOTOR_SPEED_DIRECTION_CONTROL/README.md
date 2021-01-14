@@ -1,4 +1,4 @@
-# Arduino Motor Speed Direction Control
+# Arduino DC Motor Speed and Direction Control
 
 This program is to control the speed and change the direction of motor
 
